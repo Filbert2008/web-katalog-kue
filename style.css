@@ -1,0 +1,12 @@
+.judul{
+    background-color: #D3BBC8;;
+    color: black;
+    font-weight: bold;
+    padding: auto;
+    font-size: 15px;
+    padding: 10px 20px;
+     display: flex;
+  align-items: center;
+  justify-content: space-between;
+    
+}
