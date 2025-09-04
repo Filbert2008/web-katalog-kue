@@ -22,3 +22,25 @@
   justify-content: space-between;
   text-align: left;
 }
+ .card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s, box-shadow 0.2s;
+  width: 20rem;
+  margin: 2rem auto; /* This centers the card horizontally */
+  transform: scale(1.03);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  text-align: center;
+  padding: 20px 35px;
+} 
+.detail_produk{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+width: 20rem;
+  margin: 2rem auto; 
+  ;
+}
