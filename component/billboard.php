@@ -1,0 +1,3 @@
+     <link rel="stylesheet" href="style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+<img src="images/43df5e16-1885-4b49-a394-d161d1665834.jpg" alt="images/43df5e16-1885-4b49-a394-d161d1665834.jpg"style="width: 100%; height: auto">
