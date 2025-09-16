@@ -4,10 +4,10 @@
 <div class="judul">
 <ul class="nav nav-underline">
   <li class="nav-item">
-    <a class="nav-link " aria-current="page" href="home.php" >home</a>
+    <a class="nav-link " href="../tugas_bu_ires/index.php" >home</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link " href="more_produc.php">produk</a>
+    <a class="nav-link "  href="../tugas_bu_ires/index.php?page=produk">produk</a>
   </li>
 </ul>
 </div>

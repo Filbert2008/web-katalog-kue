@@ -6,7 +6,7 @@
   <div class="card-body">
     <h5 class="card-title">RP 1.000</h5>
     <p class="card-text" style="size: 30PX;">Beli Per Pcs</p>
-    <a href="detail_produk_pcs.php" class="btn btn-primary" style= "background-color: #D3BBC8;">Buy Now</a>
+    <a href="../tugas_bu_ires/index.php?page=Buy Now pcs" class="btn btn-primary" style= "background-color: #D3BBC8;">Buy Now</a>
   </div>
 </div>
 <br><br><br>
@@ -15,7 +15,7 @@
   <div class="card-body">
     <h5 class="card-title">RP 15.000</h5>
     <p class="card-text" style="size: 30PX;">Beli Per Box</p>
-    <a href="detail_produk_box.php" class="btn btn-primary" style= "background-color: #D3BBC8;">Buy Now</a>
+    <a href="../tugas_bu_ires/index.php?page=Buy Now box" class="btn btn-primary" style= "background-color: #D3BBC8;">Buy Now</a>
   </div>
 </div>
 <br><br><br>
@@ -24,7 +24,7 @@
   <div class="card-body">
     <h5 class="card-title">RP 370.000</h5>
     <p class="card-text" style="size: 30PX;">Beli Per Karton</p>
-    <a href="detail_produk_karton.php" class="btn btn-primary" style= "background-color: #D3BBC8;">Buy Now</a>
+    <a href="../tugas_bu_ires/index.php?page=Buy Now karton" class="btn btn-primary" style= "background-color: #D3BBC8;">Buy Now</a>
   </div>
 </div>
 <br><br>

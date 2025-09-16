@@ -1,5 +1,3 @@
-     <link rel="stylesheet" href="/tugas_bu_ires/style.css">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 <footer>
   <div class="footer">
     <div class="container text-center">
@@ -7,7 +5,7 @@
     
     <div class="col-3">
       <br><br><br>
-      <img src="images/image 10.png" alt="images/image 10.png" style="width: 8rem;" ;">
+      <img src="images/image 10.png" alt="images/image 10.png" style="width: 10rem;" ;">
       <br>
       <strong>isi rasa laparmu dengan <br> cemilan berkualitas</strong>
     </div>
@@ -18,7 +16,7 @@
   <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/>
 </svg>
 <br><br><br>
-<img src="images/skill-icons_gmail-light.png" alt="images/skill-icons_gmail-light.png" style=" width=20px; height=20px;">
+<img src="images/skill-icons_gmail-light.png" alt="images/skill-icons_gmail-light.png"style=" width=20px; height=20px;">
 <br><br>
 <img src="images/download.webp" alt="images/download.webp" style="width: 50px;height: 50px;">
  </div>
@@ -31,5 +29,5 @@
   <br>
   <a href="https://wa.me/message/O2KOGJ2IJXUXE1"> 085935046588</a>
   </div>
- 
-</footer>
+ <p class="card-text fs-5">Kue kering dengan berbagai varian rasa</p>
+          <h5 class="card-title">RP 1.000</h5><img src="../images/64434c13-3169-49d5-bbaf-b4d5bbbfc9df.jpg" alt="Kue Kering" class="card-img-top img-fluid">
